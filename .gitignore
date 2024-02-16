@@ -1,1 +1,4 @@
-notebooks/data/*
+notebooks/data/wyscout/*
+notebooks/data/training_data_xgoal_wyscout/*
+notebooks/data/training_data_xpass_wyscout/*
+notebooks/data/training_data_players_wyscout/*
