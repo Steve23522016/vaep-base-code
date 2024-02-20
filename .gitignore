@@ -3,3 +3,6 @@ notebooks/data/training_data_xgoal_wyscout/*
 notebooks/data/training_data_xpass_wyscout/*
 notebooks/data/training_data_players_wyscout/*
 notebooks/data/training_data_xdribble_wyscout/*
+notebooks/data/model_xdribble_wyscout/*
+notebooks/data/model_xpass_wyscout/*
+notebooks/data/model_xgoal_wyscout/*
