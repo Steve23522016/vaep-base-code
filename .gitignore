@@ -6,3 +6,4 @@ notebooks/data/training_data_xdribble_wyscout/*
 notebooks/data/model_xdribble_wyscout/*
 notebooks/data/model_xpass_wyscout/*
 notebooks/data/model_xgoal_wyscout/*
+notebooks/catboost_info/*
