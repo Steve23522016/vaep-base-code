@@ -1,4 +1,6 @@
 notebooks/data/wyscout/*
+notebooks/data/statsbomb/*
+notebooks/data/statsbomb_event_360_data/*
 notebooks/data/training_data_xgoal_wyscout/*
 notebooks/data/training_data_xpass_wyscout/*
 notebooks/data/training_data_players_wyscout/*
