@@ -2,6 +2,7 @@ notebooks/data/wyscout/*
 notebooks/data/statsbomb/*
 notebooks/data/statsbomb_event_360_data/*
 notebooks/data/statsbomb_event_non_360_data/*
+notebooks/data/players_skill_dataset/all_sofifa_datasets/*
 notebooks/data/training_data_xgoal/*
 notebooks/data/training_data_xpass/*
 notebooks/data/training_data_players_wyscout/*
