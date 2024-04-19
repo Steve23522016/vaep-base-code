@@ -1,0 +1,4 @@
+﻿timestamp;is_opponent_team;player_id;coordinate_x;coordinate_y;name
+1;0;1;52.5;34;A
+2;0;1;82.5;54;A
+3;1;2;67.5;44;Opponent
