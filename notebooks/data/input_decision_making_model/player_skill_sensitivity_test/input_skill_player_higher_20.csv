@@ -1,0 +1,4 @@
+,player_id,acceleration,aggression,agility,balance,ball_control,composure,crossing,curve,dribbling,finishing,freekick_accuracy,heading_accuracy,interceptions,jumping,long_passing,long_shots,marking,penalties,positioning,reactions,shot_power,sliding_tackle,sprint_speed,stamina,short_passing,standing_tackle,strength,vision,volleys
+0,3,83,79,79,81,113,98,113,82,93,103,72,89,101,79,79,109,114,98,96,77,96,112,98,107,84,85,99,80,91
+1,2,82,87,83,84,70,99,77,76,72,110,82,90,77,70,111,99,108,72,90,80,105,118,91,81,108,91,95,109,78
+2,1,75,74,106,105,92,120,82,84,94,72,102,92,103,96,71,71,93,78,79,119,91,88,70,103,100,97,116,86,105
