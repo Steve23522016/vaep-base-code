@@ -10,6 +10,7 @@ notebooks/data/training_data_players_statsbomb/*
 notebooks/data/training_data_xdribble/*
 notebooks/data/model_xdribble/*
 notebooks/data/model_xpass/*
+notebooks/data/model_xpass_new/*
 notebooks/data/model_xgoal/*
 notebooks/catboost_info/*
 notebooks/images/*
