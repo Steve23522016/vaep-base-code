@@ -1,4 +1,5 @@
 notebooks/data/wyscout/*
+notebooks/data/confusion_matrix_result/*
 notebooks/data/statsbomb/*
 notebooks/data/statsbomb_event_360_data/*
 notebooks/data/statsbomb_event_non_360_data/*
